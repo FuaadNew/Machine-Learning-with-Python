@@ -1,38 +1,9 @@
-# Simple Regression
+# Machine Learning With Python
 
-This repository contains a Jupyter notebook for a simple linear regression lab using Python and scikit-learn.
+This repository follows the IBM Machine Learning with Python course.
 
-The notebook trains and evaluates a linear regression model on a fuel consumption dataset to predict vehicle CO2 emissions.
+It contains course notebooks and exercises completed while learning core machine learning concepts with Python.
 
-## Files
+## Contents
 
-- `simple_regression.ipynb` - Main notebook with data loading, visualization, model training, and evaluation.
-
-## Requirements
-
-- Python 3
-- Jupyter Notebook or JupyterLab
-- NumPy
-- Pandas
-- Matplotlib
-- scikit-learn
-
-## How to Run
-
-1. Install the required packages:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
-
-2. Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-3. Open `simple_regression.ipynb` and run the cells from top to bottom.
-
-## Dataset
-
-The notebook loads the fuel consumption dataset directly from an online source, so an internet connection is required when running the data loading cell.
+- `simple_regression.ipynb` - A simple linear regression notebook from the course.
