@@ -6,4 +6,6 @@ It contains course notebooks and exercises completed while learning core machine
 
 ## Contents
 
-- `simple_regression.ipynb` - A simple linear regression notebook from the course.
+- `simple_regression.ipynb` - Simple linear regression practice.
+- `Mulitple-Linear-Regression.ipynb` - Multiple linear regression practice.
+- `Logistic_Regression.ipynb` - Logistic regression practice.
